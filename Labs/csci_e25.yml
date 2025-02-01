@@ -1,0 +1,38 @@
+name: csci_e25
+
+channels:
+    - conda-forge
+
+dependencies:
+    - arviz
+    - beautifulsoup4
+    - imageio
+    - ipython
+    - jupyterlab
+    - matplotlib
+    - nltk
+    - numpy
+    - pandas
+    - pillow
+    - pip
+    - plotly
+    - python
+    - pymc
+    - requests
+    - scikit-learn
+    - scipy
+    - seaborn
+    - statsmodels
+    - tensorflow
+    - pytorch
+    - tqdm
+    - transformers
+    - scikit-image
+
+    - pip:
+      - gap-stat
+      - nbopen
+      - tensorflow_addons
+      - tensorflow_datasets
+      - tensorflow_hub
+      - tf_keras_vis
